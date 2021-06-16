@@ -61,10 +61,10 @@ Amaldev Manuel, **Dhruv Nevatia**<br/>
 
 ## Teaching Assistance and workshops
 
-><strong>Mathematical Logic</strong><br>*Aug-Nov 2020 at CMI, Chennai*<br>
-><strong>Theory of Computation</strong><br>*Aug-Nov 2020 at CMI, Chennai*<br>
-><strong>Introduction to programming in Haskell</strong><br>*Aug-Nov 2019 at CMI, Chennai*<br>
-><strong>Abstract algebra Workshop for JEST applicants</strong><br>*Aug-Sept 2018 at CMI-IMSc, Chennai*<br>
+><strong>Mathematical Logic</strong><br>*Teaching Assistant, Aug-Nov 2020 at CMI, Chennai*<br>
+><strong>Theory of Computation</strong><br>*Teaching Assistant, Aug-Nov 2020 at CMI, Chennai*<br>
+><strong>Introduction to programming in Haskell</strong><br>*Teaching Assistant, Aug-Nov 2019 at CMI, Chennai*<br>
+><strong>Abstract algebra Workshop for JEST applicants</strong><br>*Lecturer, Aug-Sept 2018 at CMI-IMSc, Chennai*<br>
 
 <hr style="border:1px solid gray">
 
