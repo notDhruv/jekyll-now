@@ -50,21 +50,21 @@ Amaldev Manuel, **Dhruv Nevatia**<br/>
 ><strong>Advanced Timed automata</strong><br>*under Prof. [B Srivathsan](https://www.cmi.ac.in/~sri/)*<br>
 >>
 
-><strong>On Weakening Strategies for PB solvers</strong><br>*Automated reasoning under Prof. [Ashutosh Gupta, IITB](https://www.cse.iitb.ac.in/~akg/)*<br>
+><strong>On Weakening Strategies for PB solvers</strong><br>Automated reasoning *under Prof. [Ashutosh Gupta, IITB](https://www.cse.iitb.ac.in/~akg/)*<br>
 >>Involved investigation of weakening, division and resolution strategies and their interplay to minimize constraint blow-up and optimize strength for PB specifications. It further provides an implementation in SAT4j with a case-by-case analysis of observed improvement in runtime.
 
-><strong>Perturbed timed automata</strong><br>*Timed automata under Prof. [B Srivathsan](https://www.cmi.ac.in/~sri/)*<br>
+><strong>Perturbed timed automata</strong><br>Timed automata *under Prof. [B Srivathsan](https://www.cmi.ac.in/~sri/)*<br>
 >>Determinizability of one clock perturbed timed automata unlike non - perturbed. Gives a construction for the same extending to timed language inclusion decidability hence answering the problem of universality.
 
-><strong>Invariant Model Checking by K-Induction</strong><br>*Model checking and software verification under Prof. [Mandayam Srivas](https://www.cmi.ac.in/~mksrivas/)*<br>
+><strong>Invariant Model Checking by K-Induction</strong><br>Model checking and software verification *under Prof. [Mandayam Srivas](https://www.cmi.ac.in/~mksrivas/)*<br>
 >>Implementation of invariant model checking algorithm by k-induction in z3.
 
 ## Teaching Assistance and workshops
 
-><strong>Mathematical Logic</strong><br>*Teaching Assistant, Aug-Nov 2020 at CMI, Chennai*<br>
-><strong>Theory of Computation</strong><br>*Teaching Assistant, Aug-Nov 2020 at CMI, Chennai*<br>
-><strong>Introduction to programming in Haskell</strong><br>*Teaching Assistant, Aug-Nov 2019 at CMI, Chennai*<br>
-><strong>Abstract algebra Workshop for JEST applicants</strong><br>*Lecturer, Aug-Sept 2018 at CMI-IMSc, Chennai*<br>
+><strong>Mathematical Logic</strong><br>Teaching Assistant, *Aug-Nov 2020 at CMI, Chennai*<br>
+><strong>Theory of Computation</strong><br>Teaching Assistant, *Aug-Nov 2020 at CMI, Chennai*<br>
+><strong>Introduction to programming in Haskell</strong><br>Teaching Assistant, *Aug-Nov 2019 at CMI, Chennai*<br>
+><strong>Abstract algebra Workshop for JEST applicants</strong><br>Lecturer, *Aug-Sept 2018 at CMI-IMSc, Chennai*<br>
 
 <hr style="border:1px solid gray">
 
