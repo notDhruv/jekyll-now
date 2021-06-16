@@ -15,7 +15,7 @@ permalink: /work/
 * An Algebraic Characterisation of First-Order Logic with Neighbour<br/>
 Amaldev Manuel, **Dhruv Nevatia**<br/>
 *LICS 2021*
-[[arXiv](https://arxiv.org/abs/2105.09368)][[slides]({{ site.baseurl }}/src/An-alg-char-FO-logic.pdf)]
+[[arXiv](https://arxiv.org/abs/2105.09368)][[slides](https://github.com/notDhruv/notDhruv.github.io/blob/0ebde3dc84708366eef13b00c39874a5d740d875/src/An-alg-char-FO-logic.pdf)]
 <br/>
 
 
