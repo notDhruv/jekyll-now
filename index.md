@@ -3,7 +3,7 @@ layout: default
 ---
 
 <!-- ![Profile Picture](profile_1.jpg){:style="float: right;margin-right: 7px;margin-top: 7px;height: 200px;border: 5"} -->
-I am a first year post graduate at the [Chennai Mathematical Insitute, Chennai](http://www.cmi.ac.in/) in [Computer Science](https://www.cmi.ac.in/teaching/courses.php?prog=msccs). I did my undergraduate studies in Mathematics and Computer Science from the same institute.
+I am a first year post graduate at the [Chennai Mathematical Insitute, Chennai](http://www.cmi.ac.in/) in [Computer Science](https://www.cmi.ac.in/teaching/courses.php?prog=msccs). I graduated in Mathematics and Computer Science from the same institute.
 
 My research interests mainly include logic, algebra and automata theory.
 I am particularly interested in language theory, semigroup theory, automata theory including quantitative topics like weighted and timed automata, monadic second-order logic, type theory, proof theory and model checking. Recently I have been learning about formal verification of cryptographic protocols!
