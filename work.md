@@ -9,11 +9,13 @@ permalink: /work/
 
 ## Publication
 <hr>
+[[DBLP](https://dblp.org/pid/293/7547.html)]
 
-* Varieties of Reversible Regular languages<br/>
+
+* An Algebraic Characterisation of First-Order Logic with Neighbour<br/>
 Amaldev Manuel, **Dhruv Nevatia**<br/>
-*submitted*
-[[PDF](link here)]
+*LICS 2021*
+[[arXiv](https://arxiv.org/abs/2105.09368)][[slides](link here)]
 <br/>
 
 
@@ -22,18 +24,21 @@ Amaldev Manuel, **Dhruv Nevatia**<br/>
 
 ### Ongoing
 
-><strong>An algebraic approach to the Universal automaton</strong><br><i>Summer internship 2020 at IRIF, Paris with Prof. [Thomas Colcombet](https://www.irif.fr/~colcombe/), Prof. [Daniela Petrisan](https://www.irif.fr/~petrisan/)</i><br>
+><strong>Topic</strong><br><i>Summer internship 2020 at IRIF, Paris with Prof. [Thomas Colcombet](https://www.irif.fr/~colcombe/), Prof. [Daniela Petrisan](https://www.irif.fr/~petrisan/)</i><br>
 >>The notion Universal automaton has been studied since the last 50 years. Though complex and large it has many interesting properties and is worth a more careful look. Our goal is to study this automaton in an algebraic perspective.
 <br>
 
-> <strong>Varieties of Reversible Regular languages</strong> [[draft](link here)].
-<br> <i>Summer internship 2019 at IIT Goa under Prof. [Amaldev Manuel](https://www.iitgoa.ac.in/~amal)</i><br>
->> We propose a notion of variety for regular languages that are closed under the reverse operation. We first observe that there is an Eilenberg-type correspondence between our proposed notion of varieties and pseudovarieties of hermitian semigroups. As an application it is shown that the class *Locally Reversible Threshold Testable*, those  languages that are definable in first-order logic with adjacency predicate, corresponds to the locally-hermitian block product of the pseudovariety of aperiodic commutative involutory semigroups and the locally trivial pseudovariety of semigroups.
-<br>
+><strong>An algebraic approach to the Universal automaton</strong><br><i>Summer internship 2020 at IRIF, Paris with Prof. [Thomas Colcombet](https://www.irif.fr/~colcombe/), Prof. [Daniela Petrisan](https://www.irif.fr/~petrisan/)</i><br>
+>>The notion Universal automaton has been studied since the last 50 years. Though complex and large it has many interesting properties and is worth a more careful look. Our goal is to study this automaton in an algebraic perspective.
 
 <br>
 
 ### Past
+
+><strong>Varieties of Reversible Regular languages</strong> [[draft](link here)].
+<br> <i>Summer internship 2019 at IIT Goa under Prof. [Amaldev Manuel](https://www.iitgoa.ac.in/~amal)</i><br>
+>> We give an algebraic characterisation of first-order logic with the neighbour relation, on finite words. For this, we consider languages of finite words over alphabets with an involution on them. The characterisation theorem for FO with neighbour states that a language is definable in the logic if and only if it is recognised by a locally hermitian product of an aperiodic commutative involution semigroup, and a locally trivial involution semigroup. We then define the notion of involution varieties of languages and show an Eilenberg-type correspondence.
+<br>
 
 ><strong>Commutative Algebra</strong><br><i>Summer internship 2018 with Prof. [R. Sridharan](https://www.cmi.ac.in/people/fac-profile.php?id=rsridhar)</i><br>
 >>This was a reading project in which I studied the fundamentals of Commutative algebra from classic texts by Zariski and Samuel as well as Nathan Jacobson on the subject.
@@ -41,6 +46,12 @@ Amaldev Manuel, **Dhruv Nevatia**<br/>
 <br>
 
 ### Course projects
+
+><strong>Advanced Timed automata</strong><br>*under Prof. [B Srivathsan](https://www.cmi.ac.in/~sri/)*<br>
+>>
+
+><strong>On Weakening Strategies for PB solvers</strong><br>*Automated reasoning under Prof. [Ashutosh Gupta, IITB](https://www.cse.iitb.ac.in/~akg/)*<br>
+>>Involved investigation of weakening, division and resolution strategies and their interplay to minimize constraint blow-up and optimize strength for PB specifications. It further provides an implementation in SAT4j with a case-by-case analysis of observed improvement in runtime.
 
 ><strong>Perturbed timed automata</strong><br>*Timed automata under Prof. [B Srivathsan](https://www.cmi.ac.in/~sri/)*<br>
 >>Determinizability of one clock perturbed timed automata unlike non - perturbed. Gives a construction for the same extending to timed language inclusion decidability hence answering the problem of universality.
@@ -50,6 +61,8 @@ Amaldev Manuel, **Dhruv Nevatia**<br/>
 
 ## Teaching Assistance and workshops
 
+><strong>Mathematical Logic</strong><br>*Aug-Nov 2020 at CMI, Chennai*<br>
+><strong>Theory of Computation</strong><br>*Aug-Nov 2020 at CMI, Chennai*<br>
 ><strong>Introduction to programming in Haskell</strong><br>*Aug-Nov 2019 at CMI, Chennai*<br>
 ><strong>Abstract algebra Workshop for JEST applicants</strong><br>*Aug-Sept 2018 at CMI-IMSc, Chennai*<br>
 
