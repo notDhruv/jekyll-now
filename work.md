@@ -19,6 +19,10 @@ Amaldev Manuel, **Dhruv Nevatia**<br/>
   <summary> abstract </summary>
     hsfhdhdsddhdshdd
 </details>]
+<button type="button" class="collapsible"> abstract </button>
+<div class="content">
+  some blah blah
+</div>
 
 <br/>
 
