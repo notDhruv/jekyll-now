@@ -11,7 +11,7 @@ I am particularly interested in language theory, semigroup theory, automata theo
 
 I am fortunate to be an intern in LIS, Marseille (virtual), currently working under the guidance of Prof. [Benjamin Monmege](https://pageperso.lif.univ-mrs.fr/~benjamin.monmege/).
 
-I am currently also doing a Master's thesis under the supervision of Prof. [S Akshay](https://www.cse.iitb.ac.in/~akshayss/) from IIT, Bombay.
+I am also doing a Master's thesis under the supervision of Prof. [S Akshay](https://www.cse.iitb.ac.in/~akshayss/) from IIT, Bombay.
 
 <hr style="border:1px solid gray">
 
