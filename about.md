@@ -6,9 +6,11 @@ permalink: /about/
 <!--
 ### About
  -->
-I am graduate student who loves to sketch and cook. I am always in to learn new things. Currently I am learning to stay put, haha.
+<!-- I am graduate student who loves to sketch and cook. I am always in to learn new things. Currently I am learning to stay put, haha.
 
-I am an extreme extrovert and I love talking to new people in weird situations!
+I am an extreme extrovert and I love talking to new people in weird situations! -->
+
+<img src="{{ site.baseurl }}/images/work-in-progress.png">
 
 <hr style="border:1px solid gray">
 
