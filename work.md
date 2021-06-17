@@ -3,7 +3,22 @@ layout: page
 title: Work
 permalink: /work/
 ---
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
 
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.maxHeight){
+      content.style.maxHeight = null;
+    } else {
+      content.style.maxHeight = content.scrollHeight + "px";
+    }
+  });
+}
+</script>
 
 
 
@@ -16,17 +31,21 @@ permalink: /work/
 Amaldev Manuel, **Dhruv Nevatia**<br/>
 *LICS 2021*
 [[arXiv](https://arxiv.org/abs/2105.09368)][[slides]({{ site.baseurl }}/src/An-alg-char-FO-logic.pdf)]
-[<a onclick="javascript:toggle('pub1')" href="javascript::"> abstract </a>]
+[<a onclick="javascript:toggle('BKP18')" href="javascript:;"> abstract </a>]
 <div id="BKP18" style="color: gray; display: none;">
   <blockquote>
     this is my abstract
 	</blockquote>
 </div>
 
-<button type="button" class="btn btn-info" data-toggle="collapse" data-target="#pub1"> abstract </button>
+<button class="collapsible">Open Collapsible</button>
+<div class="content">
+ This is my abstract</div>
+
+<!-- <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#pub1"> abstract </button>
 <div id="pub1" class="collapse">
   this is my abstract
-</div>
+</div> -->
 
 
 <br/>
