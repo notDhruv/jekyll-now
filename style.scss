@@ -130,12 +130,13 @@ img {
 //   background-color: #f1f1f1;
 
 details {
-  color: $blue;
+
 }
 
 details > summary {
   list-style: none;
   cursor: pointer;
+  color: $blue;
 }
 
 
