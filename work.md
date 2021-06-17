@@ -101,7 +101,7 @@ Amaldev Manuel, **Dhruv Nevatia**<br/>
 <details>
   <summary> Read more... </summary>
   <p>
-  Reading project on relations between timed and register automata as well as on a logical perspective on timed systems. The report is [here]({{site.baseurl}}/src/timed-systems-report.pdf).
+  Reading project on relations between timed and register automata as well as on a logical perspective on timed systems. The report is <a href="{{ site.baseurl }}/src/timed-systems-report.pdf"> here </a>.
   </p>
 </details>
 
@@ -110,7 +110,7 @@ Amaldev Manuel, **Dhruv Nevatia**<br/>
 <details>
   <summary> Read more... </summary>
   <p>
-  Involved investigation of weakening, division and resolution strategies and their interplay to minimize constraint blow-up and optimize strength for PB specifications. It further provides an implementation in SAT4j with a case-by-case analysis of observed improvement in runtime. The focused paper is [here](https://arxiv.org/abs/2005.04466).
+  Involved investigation of weakening, division and resolution strategies and their interplay to minimize constraint blow-up and optimize strength for PB specifications. It further provides an implementation in SAT4j with a case-by-case analysis of observed improvement in runtime. The focused paper is <a href="https://arxiv.org/abs/2005.04466"> here </a>.
   </p>
 </details>
 
@@ -118,7 +118,7 @@ Amaldev Manuel, **Dhruv Nevatia**<br/>
 <details>
   <summary> Read more... </summary>
   <p>
-  Determinizability of one clock perturbed timed automata unlike non - perturbed. Gives a construction for the same extending to timed language inclusion decidability hence answering the problem of universality. The focused paper is [here](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1166&context=cis_papers).
+  Determinizability of one clock perturbed timed automata unlike non - perturbed. Gives a construction for the same extending to timed language inclusion decidability hence answering the problem of universality. The focused paper is <a href="https://repository.upenn.edu/cgi/viewcontent.cgi?article=1166&context=cis_papers"> here </a>.
   </p>
 </details>
 
@@ -127,7 +127,7 @@ Amaldev Manuel, **Dhruv Nevatia**<br/>
 <details>
   <summary> Read more... </summary>
   <p>
-  Implementation of invariant model checking algorithm by k-induction in z3. The code is [here]({{site.baseurl}}/src/dhruv-z3.rar).
+  Implementation of invariant model checking algorithm by k-induction in z3. The code is <a href="{{ site.baseurl }}/src/dhruv-z3.rar"> here </a>.
   </p>
 </details>
 
