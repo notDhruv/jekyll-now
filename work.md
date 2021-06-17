@@ -67,9 +67,14 @@ Amaldev Manuel, **Dhruv Nevatia**<br/>
 ### Past
 
 **Varieties of Reversible Regular languages** [[draft](link here)].
-<br> <i>Summer internship 2019 at IIT Goa under Prof. [Amaldev Manuel](https://www.iitgoa.ac.in/~amal)</i><br>
-We give an algebraic characterisation of first-order logic with the neighbour relation, on finite words. For this, we consider languages of finite words over alphabets with an involution on them. The characterisation theorem for FO with neighbour states that a language is definable in the logic if and only if it is recognised by a locally hermitian product of an aperiodic commutative involution semigroup, and a locally trivial involution semigroup. We then define the notion of involution varieties of languages and show an Eilenberg-type correspondence.
-<br>
+<br> <i>Summer internship 2019 at IIT Goa under Prof. [Amaldev Manuel](https://www.iitgoa.ac.in/~amal)</i>
+<details>
+  <summary> Read more... </summary>
+    <p>
+    Check out my paper [paper](https://arxiv.org/abs/2105.09368)
+    </p>
+</details>
+
 
 **Commutative Algebra**<br><i>Summer internship 2018 with Prof. [R. Sridharan](https://www.cmi.ac.in/people/fac-profile.php?id=rsridhar)</i><br>
 This was a reading project in which I studied the fundamentals of Commutative algebra from classic texts by Zariski and Samuel as well as Nathan Jacobson on the subject.
