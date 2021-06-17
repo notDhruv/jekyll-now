@@ -35,20 +35,11 @@ Amaldev Manuel, **Dhruv Nevatia**<br/>
   <summary> [abstract] </summary>
   this is my abstract
 </details>
-[<a onclick="javascript:toggle('BKP18')" href="javascript:;"> abstract </a>]
+<!-- [<a onclick="javascript:toggle('BKP18')" href="javascript:;"> abstract </a>]
 <div id="BKP18" style="color: gray; display: none;">
   <blockquote>
     this is my abstract
 	</blockquote>
-</div>
-
-<!-- <button class="collapsible">Open Collapsible</button>
-<div class="content">
- This is my abstract</div> -->
-
-<!-- <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#pub1"> abstract </button>
-<div id="pub1" class="collapse">
-  this is my abstract
 </div> -->
 
 
