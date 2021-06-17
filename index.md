@@ -15,7 +15,7 @@ I am fortunate to be an intern in LIS, Marseille (virtual), currently working un
 
 I am also doing a Master's thesis under the supervision of Prof. [S Akshay](https://www.cse.iitb.ac.in/~akshayss/) from IIT, Bombay.
 
-## Recent Talks
+## News
 <hr>
 
 * I will be talking in the [MOVE](http://pageperso.lif.univ-mrs.fr/~benjamin.monmege/seminaireMOVE/) seminar on 17th June, 2021!
