@@ -19,6 +19,7 @@ I am also doing a Master's thesis under the supervision of Prof. [S Akshay](http
 <hr>
 
 * I will be talking in the [MOVE](http://pageperso.lif.univ-mrs.fr/~benjamin.monmege/seminaireMOVE/) seminar on 17th June, 2021!
+* Our paper **An Algebraic Characterisation of First-Order Logic with Neighbour** co-authored with Prof. Amaldev Manuel was accepted at [LICS 2021](http://easyconferences.eu/lics2021/). The preprint is [here](https://arxiv.org/abs/2105.09368)
 
 <hr style="border:1px solid gray">
 
