@@ -19,7 +19,8 @@ Amaldev Manuel, **Dhruv Nevatia**<br/>
 [<button class="btn" data-toggle="collapse" data-target="#pub1"> abstract </button>
 <div id="pub1" class="collapse">
   this is my abstract
-</div>]
+</div>
+]
 
 <br/>
 
