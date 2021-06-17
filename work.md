@@ -31,16 +31,12 @@ for (i = 0; i < coll.length; i++) {
 Amaldev Manuel, **Dhruv Nevatia**<br/>
 *LICS 2021*
 [[arXiv](https://arxiv.org/abs/2105.09368)][[slides]({{ site.baseurl }}/src/An-alg-char-FO-logic.pdf)]
-<nobr>
-<a href="https://arxiv.org/abs/2105.09368"> [arXiv] </a>
-<a href="{{ site.baseurl }}/src/An-alg-char-FO-logic.pdf"> [slides] </a>
 <details>
   <summary> [abstract] </summary>
     <p>
       We give an algebraic characterisation of first-order logic with the neighbour relation, on finite words. For this, we consider languages of finite words over alphabets with an involution on them. The natural algebras for such languages are involution semigroups. To characterise the logic, we define a special kind of semidirect product of involution semigroups, called the locally hermitian product. The characterisation theorem for FO with neighbour states that a language is definable in the logic if and only if it is recognised by a locally hermitian product of an aperiodic commutative involution semigroup, and a locally trivial involution semigroup. We then define the notion of involution varieties of languages, namely classes of languages closed under Boolean operations, quotients, involution, and inverse images of involutory morphisms. An Eilenberg-type correspondence is established between involution varieties of languages and pseudovarieties of involution semigroups.
     </p>
 </details>
-</nobr>
 
 <br/>
 
@@ -51,7 +47,13 @@ Amaldev Manuel, **Dhruv Nevatia**<br/>
 ### Ongoing
 
 ><strong>Topic</strong><br><i>Summer internship 2020 at IRIF, Paris with Prof. [Thomas Colcombet](https://www.irif.fr/~colcombe/), Prof. [Daniela Petrisan](https://www.irif.fr/~petrisan/)</i><br>
->>The notion Universal automaton has been studied since the last 50 years. Though complex and large it has many interesting properties and is worth a more careful look. Our goal is to study this automaton in an algebraic perspective.
+<details>
+  <summary> [abstract] </summary>
+    <p>
+      The notion Universal automaton has been studied since the last 50 years. Though complex and large it has many interesting properties and is worth a more careful look. Our goal is to study this automaton in an algebraic perspective.
+    </p>
+</details>
+
 <br>
 
 ><strong>An algebraic approach to the Universal automaton</strong><br><i>Summer internship 2020 at IRIF, Paris with Prof. [Thomas Colcombet](https://www.irif.fr/~colcombe/), Prof. [Daniela Petrisan](https://www.irif.fr/~petrisan/)</i><br>
