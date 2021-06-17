@@ -7,6 +7,7 @@ I am a first year post graduate at the [Chennai Mathematical Insitute, Chennai](
 
 My research interests mainly include logic, algebra and automata theory.
 I am particularly interested in language theory, semigroup theory, automata theory including quantitative topics like weighted and timed automata, monadic second-order logic, type theory, proof theory and model checking.
+<br/>
 Recently I have been learning about formal verification of cryptographic protocols!
 <!-- Recently I have also become fond of learning language theory and automata in a categorical perspective. -->
 
