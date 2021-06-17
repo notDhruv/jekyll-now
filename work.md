@@ -71,7 +71,7 @@ Amaldev Manuel, **Dhruv Nevatia**<br/>
 <details>
   <summary> Read more... </summary>
     <p>
-    Check out my paper [paper](https://arxiv.org/abs/2105.09368)
+    Check out my paper <a href="https://arxiv.org/abs/2105.09368"> here </a>.
     </p>
 </details>
 
