@@ -3,7 +3,7 @@ layout: page
 title: Work
 permalink: /work/
 ---
-<script>
+<!-- <script>
 var coll = document.getElementsByClassName("collapsible");
 var i;
 
@@ -18,7 +18,7 @@ for (i = 0; i < coll.length; i++) {
     }
   });
 }
-</script>
+</script> -->
 
 
 
@@ -31,6 +31,10 @@ for (i = 0; i < coll.length; i++) {
 Amaldev Manuel, **Dhruv Nevatia**<br/>
 *LICS 2021*
 [[arXiv](https://arxiv.org/abs/2105.09368)][[slides]({{ site.baseurl }}/src/An-alg-char-FO-logic.pdf)]
+[<details>
+  <summary> abstract </summary>
+  this is my abstract
+</details>]
 [<a onclick="javascript:toggle('BKP18')" href="javascript:;"> abstract </a>]
 <div id="BKP18" style="color: gray; display: none;">
   <blockquote>
@@ -38,9 +42,9 @@ Amaldev Manuel, **Dhruv Nevatia**<br/>
 	</blockquote>
 </div>
 
-<button class="collapsible">Open Collapsible</button>
+<!-- <button class="collapsible">Open Collapsible</button>
 <div class="content">
- This is my abstract</div>
+ This is my abstract</div> -->
 
 <!-- <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#pub1"> abstract </button>
 <div id="pub1" class="collapse">
