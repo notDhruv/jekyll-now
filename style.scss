@@ -129,6 +129,15 @@ img {
 //   transition: max-height 0.2s ease-out;
 //   background-color: #f1f1f1;
 
+details > summary {
+  list-style: none;
+}
+
+
+details > summary::-webkit-details-marker {
+  display: none;
+}
+
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;
