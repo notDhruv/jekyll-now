@@ -48,14 +48,19 @@ Amaldev Manuel, **Dhruv Nevatia**<br/>
 
 **Topic**<br><i>Summer internship 2020 at IRIF, Paris with Prof. [Thomas Colcombet](https://www.irif.fr/~colcombe/), Prof. [Daniela Petrisan](https://www.irif.fr/~petrisan/)</i>
 <details>
-  <summary> Details... </summary>
+  <summary> Abstract... </summary>
     <p>
       The notion Universal automaton has been studied since the last 50 years. Though complex and large it has many interesting properties and is worth a more careful look. Our goal is to study this automaton in an algebraic perspective.
     </p>
 </details>
 
-**An algebraic approach to the Universal automaton**<br><i>Summer internship 2020 at IRIF, Paris with Prof. [Thomas Colcombet](https://www.irif.fr/~colcombe/), Prof. [Daniela Petrisan](https://www.irif.fr/~petrisan/)</i><br>
-The notion Universal automaton has been studied since the last 50 years. Though complex and large it has many interesting properties and is worth a more careful look. Our goal is to study this automaton in an algebraic perspective.
+**An algebraic approach to the Universal automaton**<br><i>Summer internship 2020 at IRIF, Paris with Prof. [Thomas Colcombet](https://www.irif.fr/~colcombe/), Prof. [Daniela Petrisan](https://www.irif.fr/~petrisan/)</i>
+<details>
+  <summary> Abstract... </summary>
+    <p>
+    The notion Universal automaton has been studied since the last 50 years. Though complex and large it has many interesting properties and is worth a more careful look. Our goal is to study this automaton in an algebraic perspective.
+    </p>
+</details>
 
 <br>
 
