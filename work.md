@@ -16,7 +16,7 @@ permalink: /work/
 Amaldev Manuel, **Dhruv Nevatia**<br/>
 *LICS 2021*
 [[arXiv](https://arxiv.org/abs/2105.09368)][[slides]({{ site.baseurl }}/src/An-alg-char-FO-logic.pdf)]
-[]<button type="button" class="btn" data-toggle="collapse" data-target="#1"> abstract] </button>
+[<button type="button" class="btn" data-toggle="collapse" data-target="#1"> abstract </button>
 <div id="1" class="collapse">
   this is my abstract
 </div>]
