@@ -30,13 +30,14 @@ for (i = 0; i < coll.length; i++) {
 * An Algebraic Characterisation of First-Order Logic with Neighbour<br/>
 Amaldev Manuel, **Dhruv Nevatia**<br/>
 *LICS 2021*
-<nobr>
-  [[arXiv](https://arxiv.org/abs/2105.09368)][[slides]({{ site.baseurl }}/src/An-alg-char-FO-logic.pdf)]
-  <details>
-    <summary> [abstract] </summary>
-    this is my abstract
-  </details>
-</nobr>
+[[arXiv](https://arxiv.org/abs/2105.09368)][[slides]({{ site.baseurl }}/src/An-alg-char-FO-logic.pdf)]
+<details>
+  <summary> [abstract] </summary>
+    <p>
+      this is my abstract
+    </p>
+</details>
+
 <!-- [<a onclick="javascript:toggle('BKP18')" href="javascript:;"> abstract </a>]
 <div id="BKP18" style="color: gray; display: none;">
   <blockquote>
